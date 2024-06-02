@@ -19,5 +19,5 @@ untuk menjalankan uploadshell dari hasil result.txt
 ```
 
 
-````**DISCLAIMER : It is strictly forbidden to sell this tool and it is forbidden to commit cybersec crimes. Don't use this tool to hack websites because it really violates the articles of the ITE Law and the owner of this tool will not be responsible for your actions. Use it as best as possible. Be a good hacker**
+````**DISCLAIMER : use**
 ````
