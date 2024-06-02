@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://i.top4top.io/p_3075y9rvz0.jpg" width="500" height="600">
+<img src="https://i.top4top.io/p_3075y9rvz0.jpg" width="250" height="250">
 
 
 Install:
