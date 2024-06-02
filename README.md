@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://kosred.com/a/nvpbnr.jpg">
+
 
 
 Install:
